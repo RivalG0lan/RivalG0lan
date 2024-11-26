@@ -17,11 +17,22 @@
 
 ## 🚀 GitHub Stats & Animations
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RivalG0lan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RivalG0lan&layout=compact&theme=radical)  
 
 ### 🐍 Snake Animation
-![Snake Animation](https://github.com/RivalG0lan/RivalG0lan/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 ---
 
 ## 🎨 Dynamic Icons
