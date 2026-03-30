@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm a Informatics Engineering Student</h1>
-<h3 align="center">Web Developer | Flutter Developer | UI/UX Enthusiast</h3>
+<h1 align="center">Rivaldo Nainggolan</h1>
+<h3 align="center">Web Developer | Mobile Developer | Multimedia and UI/UX Enthusiast</h3>
 
 ---
 
@@ -64,8 +64,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RivalG0lan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RivalG0lan&theme=tokyonight" />
 </p>
 
 ---
